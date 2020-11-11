@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC"-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Features of HTML</title>
+</head>
+
+<body>
+
+<!-- site navigation menu -->
+<ul Class="navbar">
+   <li><a href = "index.html">Home page </a>
+   <li><a href = "musings.html">Musings</a>
+   <li><a href = "town.html"> My town</a>
+   <li><a href = "links html">Links</a>
+</ul>
+<!-- html-->
+<h1>Features of HTML</h1>
+<p>welcome to Features of HTML!
+<p>It is easy and simple language.it can be
+Easily understood and modifies;
+<p>html is a markup language to provide a flexible way to design.
+
+<!--anusha and November!-->
+<address> Anusha maddur taluk, Mandya distinct made 
+11 November 2020<br> by myself.</address>
+
+</body>
+</html>
